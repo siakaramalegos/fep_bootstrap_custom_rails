@@ -1,0 +1,9 @@
+$brand-primary:         #911146 !default;
+$brand-success:         #d90000 !default;
+$brand-info:            #ff2d00 !default;
+$brand-warning:         #ff8c00 !default;
+$brand-danger:          #04756f !default;
+
+// "bootstrap-sprockets" must be imported before "bootstrap" and "bootstrap/variables"
+@import "bootstrap-sprockets";
+@import "bootstrap";
